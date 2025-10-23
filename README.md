@@ -1,8 +1,8 @@
 # RippyFish
 
-Problem: You've got a web page containing an OpenSeadragon IIIF viewer. BUT what you'd prefer is just a high resolution static image.
+**Problem:** You've got a web page containing an OpenSeadragon IIIF viewer. BUT what you'd prefer is just a high resolution static image.
 
-Solution: This was mostly vibecoded in 5 minutes to solve an urgent need. I recommned you dont use it. Also, you shouold be nice to copyright owners and people who run servers: the chances are they're in the museums, libraries and archives sector and those folsk deserve LOVE, not this sort of thing.
+**Solution:** This was mostly vibecoded in 5 minutes to solve an urgent need. I recommned you dont use it. Also, you shouold be nice to copyright owners and people who run servers: the chances are they're in the museums, libraries and archives sector and those folsk deserve LOVE, not this sort of thing.
 
 ##  Usage
 
@@ -12,16 +12,16 @@ First, install dependencies:
 
 ### Then run the script:
 
--  Basic usage (saves to current directory)
+Basic usage (saves to current directory)
     python rippyfish.py <url>
 
-- Specify output directory
+Specify output directory
     python rippyfish.py <url> --output ./my_images
 
-- Adjust concurrent downloads (default: 10)
+Adjust concurrent downloads (default: 10)
     python rippyfish.py <url> --workers 20
 
-- Enable verbose logging
+Enable verbose logging
     python rippyfish.py <url> --verbose
 
 ## How It Works
