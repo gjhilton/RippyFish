@@ -1,6 +1,8 @@
 # RippyFish
 
-**Problem:** You've got a web page containing an OpenSeadragon IIIF viewer. BUT what you'd prefer is just a high resolution static image.
+![image](/assets/header/png)
+
+**Problem:** You've got a webpage containing an embedded IIIF but what you want is a nice old-fashioned max resolution PNG.
 
 **Solution:** This was mostly vibecoded in 5 minutes to solve an urgent need. I recommned you dont use it. Also, you shouold be nice to copyright owners and people who run servers: the chances are they're in the museums, libraries and archives sector and those folsk deserve LOVE, not this sort of thing.
 
