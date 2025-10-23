@@ -1,6 +1,6 @@
 # RippyFish
 
-![image](/assets/header/png)
+![image](/assets/header.png)
 
 **Problem:** You've got a webpage containing an embedded IIIF but what you want is a nice old-fashioned max resolution PNG.
 
