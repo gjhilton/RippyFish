@@ -16,6 +16,10 @@ First, install dependencies:
 
 ### Then run the script:
 
+You may need to do
+
+	source venv/bin/activate
+
 Basic usage (saves to current directory)
 
 ```
